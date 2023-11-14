@@ -11,5 +11,4 @@ public class test {
         int x = rand.nextInt();
         System.out.println(x);
     }
-    
-    }
+}
